@@ -46,3 +46,29 @@ POST /api/events -- create an event
 PUT /api/events/{id} -- update an event
 
 DELETE /api/events/{id} -- delete an event
+
+## Routes
+
+GET /api/routes -- list available routes
+
+POST /api/routes -- create a route
+
+## Categories
+
+GET /api/events/{id}/categories -- list event categories
+
+POST /api/events/{id}/categories -- add a category
+
+PUT /api/categories/{id} -- update a category
+
+DELETE /api/categories/{id} -- remove a category
+
+## Enrolments
+
+GET /api/events/{id}/enrolments -- list event enrolments
+
+POST /api/events/{id}/enrolments -- enrol a user
+
+GET /api/enrolments/{id} -- retrieve an enrolment
+
+DELETE /api/enrolments/{id} -- remove an enrolment
