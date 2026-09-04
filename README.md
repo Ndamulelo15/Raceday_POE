@@ -232,6 +232,10 @@ Microsoft (2024) Primary and foreign key constraints. Microsoft Learn.
 Coronel, C. and Morris, S. (2019) Database Systems: Design,
 Implementation, & Management. 13th edn. Boston: Cengage Learning.
 
+# Workflows 
+<img width="1365" height="637" alt="WORK" src="https://github.com/user-attachments/assets/0142d5cc-02df-44ad-bc6c-20d3407b1d0d" />
+
+
 # Author
 
 Ndamulelo Godfrey Tshivhula
