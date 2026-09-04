@@ -72,3 +72,15 @@ POST /api/events/{id}/enrolments -- enrol a user
 GET /api/enrolments/{id} -- retrieve an enrolment
 
 DELETE /api/enrolments/{id} -- remove an enrolment
+
+## Results
+
+GET /api/events/{id}/results -- list results for an event
+
+POST /api/enrolments/{id}/results -- record a result
+
+GET /api/results/{id} -- retrieve a result
+
+PUT /api/results/{id} -- update a result
+
+DELETE /api/results/{id} -- delete a result
