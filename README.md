@@ -34,3 +34,15 @@ PUT /api/users/{id} -- update a user
 GET /api/users -- list users
 
 DELETE /api/users/{id} -- delete a user
+
+## Events
+
+GET /api/events -- list events
+
+GET /api/events/{id} -- retrieve an event
+
+POST /api/events -- create an event
+
+PUT /api/events/{id} -- update an event
+
+DELETE /api/events/{id} -- delete an event
